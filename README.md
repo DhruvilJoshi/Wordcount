@@ -4,4 +4,4 @@ This program mimicks the WordCount, i.e. it reads text files and counts how ofte
 The code is split into 2 files of mapper.py and reducer.py.
 
 References-
-1.	Zachary Radtka, D. M. (2016, April 21). Hadoop with python. O'Reilly Media. Retrieved September 22, 2021, from https://www.oreilly.com/content/hadoop-with-python/.
+Zachary Radtka, D. M. (2016, April 21). Hadoop with python. O'Reilly Media. Retrieved September 22, 2021, from https://www.oreilly.com/content/hadoop-with-python/.
